@@ -1,0 +1,228 @@
+*margin{
+    padding: opx;
+    margin: 0px;
+}
+
+body{background-color: rgb(253, 253, 253);}
+
+.first{
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    width: 100% ;
+    right: 9px;
+    position: fixed;
+    margin-top: -8px;
+    left: 0px;
+    color: rgb(255, 255, 255);
+}
+
+
+.first1{
+    position: absolute;
+    margin-top: 20px;
+    left: 60px;  
+}
+
+img{height: 60px;}
+
+ul{
+    position: absolute;
+    left: 70px;
+    top: 12px;
+}
+
+li{
+    position: absolute;
+    display: inline; 
+}
+
+.a1{left: 200px;}
+.a2{left: 330px;}
+.a3{left: 420px;}
+.a4{left: 530px;}
+.a5{left: 620px;}
+.a6{left: 1000px;}
+.a7{left: 1120px;}
+.a8{left: 1230px;}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.second{
+    width: 100%;
+    position: static;
+}
+.second img {
+    /* background: url( ./image/Starship_header_x800.jpg.webp); */
+    margin-top: 91px; 
+    height: 690px;
+    width: 100%;
+}
+
+.third{
+    background-color: rgb(255, 255, 255);
+    height: 200px;
+    width: 100% ;
+    margin-top: -26px;
+}
+
+h4{
+    text-align: center;
+    padding: 60px;
+    margin: px;
+    font-size: 2em;
+}
+
+.four{ 
+    background-color: rgb(255, 255, 255);
+    height: 2000px;
+    width: 1440px ;
+    position: absolute;
+    top: 900px;
+}
+
+.card1{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 330px ;
+    left: 80px;
+    top: 170px; 
+    padding: 10px;
+}
+.card1 img{
+height: 380px;
+width: 330px;
+}
+.card1 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.card2{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 330px ;
+    left: 550px;
+    top: 170px; 
+    padding: 10px;
+}
+.card2 img{
+height: 380px;
+width: 330px;
+}
+.card2 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.card3{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 330px ;
+    left: 1020px;
+    top: 170px; 
+    padding: 10px;
+}
+.card3 img{
+height: 380px;
+width: 330px;
+}
+.card3 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.card4{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 330px ;
+    left: 85px;
+    top: 1650px; 
+    padding: 10px;
+}
+.card4 img{
+height: 380px;
+width: 330px;
+}
+.card4 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+.card5{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 330px ;
+    left: 550px;
+    top: 1650px; 
+    padding: 10px;
+}
+.card5 img{
+height: 380px;
+width: 330px;
+}
+.card5 p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+.card6{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+    width: 330px ;
+    left: 1020px;
+    top: 1650px; 
+    padding: 10px;
+}
+.card6 img{
+height: 380px;
+width: 330px;
+}
+.card6 p{
+    text-align: center;
+    font-size: 20px;
+}
+.card1:hover{
+    box-shadow: 5px 5px 10px black;
+}
+
+.card2:hover{
+    box-shadow: 5px 5px 10px black;
+}
+
+.card3:hover{
+    box-shadow: 5px 5px 10px black;
+}
+
+.card4:hover{
+    box-shadow: 5px 5px 10px black;
+}
+
+.card5:hover{
+    box-shadow: 5px 5px 10px black;
+}
+
+.card6:hover{
+    box-shadow: 5px 5px 5px black;
+}
+
+
+
+
+

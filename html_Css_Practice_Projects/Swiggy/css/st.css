@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: white;
+    background-color: rgb(255, 72, 0);
+    text-align: center;
+    padding: 10px 10px;
+}
+nav{
+    background-color: orange;
+    padding: 20px;
+}
+.navbar{
+    list-style: none;
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    margin-right: 30px;
+}
+.navbar li a{
+    color: black;
+    text-decoration: none;
+}
+.navbar li a:hover{
+    border-bottom: 1px solid black;
+}
+.container{
+    width: 70%;
+    height: fit-content;
+    position: relative;
+    left: 200px;
+}
+.foodcards{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(198, 228, 88);
+    padding: 10px;
+    margin: 10px;
+}
+.foodcards img{
+    height: 150px;
+    width: 100%;
+}
+.foodcards h3{
+    margin: 5px;
+}
+.foodcards p{
+    margin: 5;
+}
+.c1{
+    position:absolute;
+    top: 50px;
+    left: 40px;
+}
+.c2{
+    position:absolute;
+    top: 50px;
+    left: 330px;
+}
+.c3{
+    position:absolute;
+    top: 50px;
+    left: 620px;
+}
+.c4{
+    position:absolute;
+    top: 350px;
+    left: 40px;
+}
+.c5{
+    position:absolute;
+    top: 350px;
+    left: 330px;
+}
+.c6{
+    position:absolute;
+    top: 350px;
+    left: 620px;
+}
+.c1:hover{
+    box-shadow: 5px 2px 8px rgb(32, 13, 13);
+}
+.c2:hover{
+    box-shadow: 5px 5px 8px rgb(32, 13, 13);
+}
+.c3:hover{
+    box-shadow: 5px 5px 8px rgb(32, 13, 13);
+}
+.c4:hover{
+    box-shadow: 5px 5px 8px rgb(32, 13, 13);
+}
+.c5:hover{
+    box-shadow: 5px 5px 8px rgb(32, 13, 13);
+}
+.c6:hover{
+    box-shadow: 5px 5px 8px rgb(32, 13, 13);
+}
